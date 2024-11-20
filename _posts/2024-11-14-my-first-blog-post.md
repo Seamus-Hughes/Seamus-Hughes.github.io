@@ -2,6 +2,10 @@
 layout: post
 title: "my first blog post"
 date: 2024-11-14
+tags:
+- Jekyll
+- GitHub Pages
+- Blog
 ---
 
 ## Welcome to my blog!
