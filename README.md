@@ -3,4 +3,4 @@ Blog
 
 ## Recent Posts
 
-- [My First Blog Post](/_posts/2024-11-14-my-first-blog-post.md)
+- [A Dream Repository](/_posts/2024-11-27-a-dream-repository.md)
