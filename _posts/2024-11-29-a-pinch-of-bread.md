@@ -11,7 +11,7 @@ A couple of years ago, I gave up beef without much fanfare, preaching or fuss. I
 
 I gave up beef for one simple reason:
 
-> One again the vastly disproportionate impact of beef is obvious. If you want to do one thing to immediately reduce your carbon emissions, stop eating beef. You can do that today, at no cost. <br>
+> "One again the vastly disproportionate impact of beef is obvious. If you want to do one thing to immediately reduce your carbon emissions, stop eating beef. You can do that today, at no cost." <br>
 >
 > Jeremy Williams via [The footprint of animal based foods](https://earthbound.report/2020/09/24/the-footprint-of-animal-based-foods/)
 
