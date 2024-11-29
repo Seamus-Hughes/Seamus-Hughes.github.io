@@ -7,9 +7,6 @@ tags:
 - Dreams
 - Blog
 ---
-
-## A Dream Repository
-
 > “Don’t let your dreams give up on you.”\
 >
 > A Fourth Grader via [Austin Kleon](https://austinkleon.com/page/2/)
