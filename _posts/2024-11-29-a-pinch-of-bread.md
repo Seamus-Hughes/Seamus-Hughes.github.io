@@ -1,4 +1,3 @@
-[2024-11-29-a-pinch-of-bread.md]
 ---
 layout: post
 title: "A Pinch of Bread"
