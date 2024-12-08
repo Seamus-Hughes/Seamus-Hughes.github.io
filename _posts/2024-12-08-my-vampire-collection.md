@@ -1,4 +1,3 @@
-[2024-13-08-my-vampire-collection.md]
 ---
 layout: post
 title: "My Vampire Collection"
