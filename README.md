@@ -3,6 +3,8 @@ Blog
 
 ## Recent Posts
 
+- [At The Foot of Many A Hill](/_2024-12-28-at-the-foot-of-many-a-hill)
+
 - [My Vampire Collection](/_posts/2024-12-08-my-vampire-collection.md)
 
 - [A Pinch of Bread](/_posts/2024-11-29-a-pinch-of-bread.md)
