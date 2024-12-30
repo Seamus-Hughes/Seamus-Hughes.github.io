@@ -2,7 +2,7 @@
 layout: post
 title: "At The Foot Of Many A Hill"
 date: 2024-12-28
-author: “Seamus Hughes”
+author: Seamus Hughes
 tags:
 - Adventure
 - Trig Point
