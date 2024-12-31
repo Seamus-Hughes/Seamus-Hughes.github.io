@@ -9,4 +9,4 @@ tags:
 - Peak District
 ---
 
-![Waterfall and bridge at Three Shires Head](/_images/three-shires-head-waterfall.jpg)
+![Waterfall and bridge at Three Shires Head](./_images/three-shires-head-waterfall.jpg)
