@@ -3,7 +3,7 @@ Blog
 
 ## Recent Posts
 
-- [test](/_posts/2024-12-30-three-shires-head.md)
+- [Three Shires Head](/_posts/2024-12-30-three-shires-head.md)
 
 - [At The Foot of Many A Hill](/_posts/2024-12-28-at-the-foot-of-many-a-hill.md)
 
