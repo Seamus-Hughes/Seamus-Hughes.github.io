@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: “Three Shires Head”
 date: 2024-12-30
@@ -7,9 +7,9 @@ tags:
 - Walking
 - Adventure
 - Peak District
-—
+---
 
-![Waterfall and bridge at Three Shires Head](/images/three-shires-head-waterfall.jpg “Three Shires Head”)
+![Waterfall and bridge at Three Shires Head](/images/three-shires-head-waterfall.jpg)
 
 Here’s the corrected version with spelling and grammatical errors fixed. I’ll explain all changes afterward:
 
