@@ -20,7 +20,7 @@ tags:
 
 #### Tuesday 7th January 
 
-> "You're better at **head stories**[^A head story is a made-up story told on the spot. But it's more fun than that. They are free-flowing and have little respect for plot or narrative structure. If it's fun, just throw it in, let it be a free-flowing stream of creativity] than Daddy."[^This is very true, some of his under-the-bed stories would give you nightmares.]\
+> "You're better at **head stories**[^1] than Daddy."[^This is very true, some of his under-the-bed stories would give you nightmares.]\
 > — My better half to child 3
 
 #### Monday 6th January
@@ -42,3 +42,5 @@ tags:
 
 > "I don't think it's the right time to make New Year's resolutions when I can't even figure out what day of the week it is."[^Nice combo. Nobody remembers what day of the week it is around Christmas. Resolutions are all well and good, but post-Christmas, when there's so much leftover food and alcoholic drinks sloshing around, it's cold, wet, and mostly dark outside. January is always a bit of a downer. This is not the time for resolutions.] \
 > — Myself
+
+[^1]: A head story is a made-up story told on the spot. But it’s more fun than that. They are free-flowing and have little respect for plot or narrative structure. If it’s fun, just throw it in, let it be a free-flowing stream of creativity
