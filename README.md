@@ -3,6 +3,8 @@ Blog
 
 ## Recent Posts
 
+- [Book Pool](/_posts/2025-01-19-book-pool.md)
+
 - [Lifestream January 2025](/_posts/2025-01-08-lifestream-words-2025-January.md)
 
 - [Three Shires Head](/_posts/2024-12-30-three-shires-head.md)
