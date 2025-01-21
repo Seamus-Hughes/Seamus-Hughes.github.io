@@ -3,7 +3,7 @@ Blog
 
 ## Recent Posts
 
-[Wife’s Reading Recommendations 2025](/_posts/2025-01-20-wifes-reading-recommendations-2025.md)
+- [Wife’s Reading Recommendations 2025](/_posts/2025-01-20-wifes-reading-recommendations-2025.md)
 
 - [Book Pool](/_posts/2025-01-19-book-pool.md)
 
