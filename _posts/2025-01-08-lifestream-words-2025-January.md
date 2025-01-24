@@ -12,6 +12,52 @@ tags:
 <!— > “This is a quote.”\ —>
 <!— > — Author Name —>
 
+#### Thursday 23rd January 
+
+> “Ohhh Freddie”[^27]
+> — Francesca
+
+[^27]: As season 3 of “The Traitors” draws to a close, the speculation and second-guessing intensifies. I called Charlotte’s moves in the last episode. My better half thinks Freddie is a goner, but I think he had it in him to make the right moves and could have gone away with the money. He was a bad liar by his own admission. Less than 24 hours as a traitor, and he tied himself in knots with his untruths.
+
+#### Wednesday 22nd January
+
+Retracted.
+
+[^26]: I have withheld this post until the hearing is complete and the results are made public. 
+
+#### Tuesday 21st January 
+
+> “You said your dad was dead” said Child 3’s friend as we arrived in the playground. To clarify Child 3 said “He was on the edge, Falled in the river and I saw some bones.”[^24]
+
+[^24]: I drop him off every morning, sometimes I really wonder. 
+
+#### Monday 20th January 
+
+> “My feet are like blocks of ice, so I’m going to bed.”[^22] [^23]
+> — My Better Half
+
+[^22]: ‘Our’ bed belongs to my wife. It’s her happy place (one of them). She spends a fair amount of time in it. Sometimes she is there when I get in from work, and it is a rare occasion indeed if she is out of it before me in the morning.
+
+[^23]: By her own admission, my wife is a fair-weather person in all respects. It’s been a long, cold winter, and she is looking forward to her favorite season, spring.
+
+#### Sunday 19th January 
+
+> “What have you got planned for this afternoon?”[^21]
+> — My Better Half
+
+[^21]: What she is really saying is, “I’ve got this idea, it’s going to take some time, and I really need some help.” So what she is really asking is if I can guess what it is she wants us to do together. Usually, I can’t. Anyway, we figured it out in the end. Our bedroom got a proper de-clutter.
+
+#### Saturday 18th January 
+
+> Child 2: “I’m mad with you 😠.”\
+> \
+> Me: “I love you ❤️.”\
+> \
+> Child 2: “Whatever!”[^20]
+
+[^20]: We sit together as a family for breakfast on a weekend. It works perfectly fine until someone says something, or annoys someone, or winds someone up. Then, due to the level of amusement it causes, nobody lets it go. It bounces back and forth until it gets out of hand. Child 2 storms off. Returning later with a paper note and not a word, writing a reply on the back, I return the note. It’s only later I find “whatever” scrawled across my reply.
+
+
 #### Friday 17th January 
 
 > “It’s quite plastic. Is that what old school Doctor Who used to be like?”[^19]\
@@ -128,3 +174,6 @@ tags:
 [^2]: Child 2’s wicked sleepover was an enjoyable affair until the not-going-to-sleep part. Whoever thought of putting children who all have their own personal, idiosyncratic ways of getting to sleep in a room together is just evil. Child 2, who gets rather grumpy when overtired, spent a couple of days recovering.
 
 [^1]: Nice combo. Nobody remembers what day of the week it is around Christmas. Resolutions are all well and good, but post-Christmas, when there’s so much leftover food and alcoholic drinks sloshing around, it’s cold, wet, and mostly dark outside. January is always a bit of a downer. This is not the time for resolutions.
+
+
+
