@@ -3,18 +3,18 @@ Blog
 
 ## Recent Posts
 
-- [Wife’s Reading Recommendations 2025](/_posts/2025-01-20-wifes-reading-recommendations-2025.md)
+- [Wife’s Reading Recommendations 2025]({% post_url 2025-01-20-wifes-reading-recommendations-2025 %})
 
-- [Book Pool](/_posts/2025-01-19-book-pool.md)
+- [Book Pool]({% post_url 2025-01-19-book-pool %})
 
-- [Lifestream January 2025](/_posts/2025-01-08-lifestream-words-2025-January.md)
+- [Lifestream January 2025]({% post_url 2025-01-08-lifestream-words-2025-January %})
 
-- [Three Shires Head](/_posts/2024-12-30-three-shires-head.md)
+- [Three Shires Head]({% post_url 2024-12-30-three-shires-head %})
 
-- [At The Foot of Many A Hill](/_posts/2024-12-28-at-the-foot-of-many-a-hill.md)
+- [At The Foot of Many A Hill]({% post_url 2024-12-28-at-the-foot-of-many-a-hill %})
 
-- [My Vampire Collection](/_posts/2024-12-08-my-vampire-collection.md)
+- [My Vampire Collection]({% post_url 2024-12-08-my-vampire-collection %})
 
-- [A Pinch of Bread](/_posts/2024-11-29-a-pinch-of-bread.md)
+- [A Pinch of Bread]({% post_url 2024-11-29-a-pinch-of-bread %})
 
-- [A Dream Repository](/_posts/2024-11-27-a-dream-repository.md)
+- [A Dream Repository]({% post_url 2024-11-27-a-dream-repository %})
