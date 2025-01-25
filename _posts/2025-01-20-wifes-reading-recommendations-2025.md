@@ -9,7 +9,7 @@ tags:
 - Recommend
 ---
 
-My better half managed to read 52 books last year. They were mostly here current genre of choose, psychological, page-turning thrillers. To broaden her reading horizons, she took to social media to ask her bookworm friends to help her compile 12 books to read this year. This inspired me to ask her for her recommendations for me. She kindly obliged.
+My better half managed to read 52 books last year. They were mostly here current genre of choose, psychological, page-turning thrillers. To broaden her reading horizons, she took to social media to ask her bookworm friends to help her compile 12 books to read this year. This [inspired me]({% post_url 2025-01-19-book-pool %}) to ask her for her recommendations for me. She kindly obliged.
 
 Some of the books she has chosen are ones she read over a number of years. They're the books that had a significant emotional impact. Other books, the psychological thrillers, are some of her favorites from last year's shelf full of books.
 
