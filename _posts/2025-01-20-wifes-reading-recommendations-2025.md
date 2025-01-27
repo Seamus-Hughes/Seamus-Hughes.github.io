@@ -38,3 +38,5 @@ The full list is:
 11. **The Road** by Cormac McCarthy (*Post-Apocalyptic Fiction, Drama*)
 
 12. **A Monster Calls** by Patrick Ness (*Fantasy, Emotional Fiction*)
+   
+13. **The Hate U Give** by Angie Thomas (*Young Adult, Social Issues*)
