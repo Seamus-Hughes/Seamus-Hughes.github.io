@@ -3,7 +3,7 @@ Blog
 
 ## Recent Posts
 
--[Children’s Reading Recommendations 2025]({% post_url 2025-01-26-childrens-reading-recommendations-2025 %})
+- [Children’s Reading Recommendations 2025]({% post_url 2025-01-26-childrens-reading-recommendations-2025 %})
 
 - [Wife’s Reading Recommendations 2025]({% post_url 2025-01-20-wifes-reading-recommendations-2025 %})
 
