@@ -14,7 +14,7 @@ tags:
 
 #### Thursday 23rd January 
 
-> “Ohhh Freddie”[^27]
+> “Ohhh Freddie”[^27]\
 > — Francesca
 
 [^27]: As season 3 of “The Traitors” draws to a close, the speculation and second-guessing intensifies. I called Charlotte’s moves in the last episode. My better half thinks Freddie is a goner, but I think he had it in him to make the right moves and could have gone away with the money. He was a bad liar by his own admission. Less than 24 hours as a traitor, and he tied himself in knots with his untruths.
@@ -33,7 +33,7 @@ Retracted.
 
 #### Monday 20th January 
 
-> “My feet are like blocks of ice, so I’m going to bed.”[^22] [^23]
+> “My feet are like blocks of ice, so I’m going to bed.”[^22] [^23]\
 > — My Better Half
 
 [^22]: ‘Our’ bed belongs to my wife. It’s her happy place (one of them). She spends a fair amount of time in it. Sometimes she is there when I get in from work, and it is a rare occasion indeed if she is out of it before me in the morning.
@@ -42,7 +42,7 @@ Retracted.
 
 #### Sunday 19th January 
 
-> “What have you got planned for this afternoon?”[^21]
+> “What have you got planned for this afternoon?”[^21]\
 > — My Better Half
 
 [^21]: What she is really saying is, “I’ve got this idea, it’s going to take some time, and I really need some help.” So what she is really asking is if I can guess what it is she wants us to do together. Usually, I can’t. Anyway, we figured it out in the end. Our bedroom got a proper de-clutter.
