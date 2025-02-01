@@ -3,6 +3,8 @@ Blog
 
 ## Recent Posts
 
+- [Lifestream February 2025]({% post_url 2025-02-01-lifestream-words-2025-february %})
+
 - [Workmates Reading Recommendations 2025]({% post_url 2025-01-27-workmates-reading-recommendations-2025 %})
 
 - [Children’s Reading Recommendations 2025]({% post_url 2025-01-26-childrens-reading-recommendations-2025 %})
