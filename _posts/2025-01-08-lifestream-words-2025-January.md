@@ -9,7 +9,13 @@ tags:
 - miscellaneous 
 ---
 
-#### Thursday 31st January
+#### Friday 31st January
+
+> “She won!!!!”[^38]
+
+[^38]: Child One won the class at David Clover against 21 other 9-11 year olds. She sang “In My Own Little Corner” from Cinderella. Better still, Child 2 managed to stand up in front of an audience for her first-ever solo performance of “Singin’ in the Rain.” She was so anxious beforehand, I was expecting her to have not done it at all. So proud of her.
+
+#### Thursday 30th January
 
 > Someone said something that made me angry.[^35] Partly at them but mostly at myself. So I disengage, I step back.[^36]
 > 
@@ -21,21 +27,21 @@ tags:
 
 [^37]: Thursday is oncology day. It’s hard to maintain any menial gripes you have with the world or yourself when you see what the kids and their parents are having to deal with.
 
-#### Wednesday 30th January
+#### Wednesday 29th January
 
 > My better half knowingly reminds me of one of my own phrases: “Complex social interactions.”\
 > “I know,” I reply, resigning to the truth.[^34]
 
 [^34]: We’re discussing the potential ‘Mean Girls’ problem that Child Two’s friendship group has presented to us. My better half beats me to it by using the phrase I often use as my default “I have no idea,” because I generally don’t, when it comes to anything social or emotional-related. Strangely, because I have such an outsider perspective when it comes to friendships (I’ve always struggled with this and never had/maintained any friendship of note), I have some positive constructive contributions to the conversation.
 
-#### Tuesday 29th January 
+#### Tuesday 28th January 
 
 > “It’s not really the weather for it!”[^33]\
 > — Random Stranger
 
 [^33]: Spent most of today’s bike ride cycling through a cloud. The rain was relentless. The worry and the guilt outweighed any benefit today. The car was in the garage, and I needed to get back to pick it up to pick the kids up so I could take them to swimming. It was all a bit wet and rushed.
 
-#### Monday 28th January 
+#### Monday 27th January 
 
 > “To be a friend doesn’t mean you have to get on with them all the time; sometimes Mummy doesn’t like me very much,”[^31]\
 > \
@@ -47,7 +53,7 @@ tags:
 
 [^32]: I don’t even remember, and she says she’ll never forget. There was a time when she needed something from the car. I was being an arse about it and put it on the roof of the car out of her reach. Not a very nice thing to do.
 
-#### Sunday 27th January 
+#### Sunday 26th January 
 
 > “Next time we can play by someone else’s rules.”[^30]\
 > — Myself 
