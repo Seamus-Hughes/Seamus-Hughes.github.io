@@ -15,8 +15,6 @@ To improve next year's reading list, I need to listen more attentively when thes
 
 I've made another significant observation. My influencers are predominantly middle-aged white men. This contrasts sharply with my other reading lists from my [wife]({% post_url 2025-01-20-wifes-reading-recommendations-2025 %}), [Children]({% post_url 2025-01-26-childrens-reading-recommendations-2025 %}), and  [Workmates]({% post_url 2025-01-27-workmates-reading-recommendations-2025 %}), who are all predominantly female. I clearly need to broaden my influences.
 
-# **Book Recommendations by Various Authors**  
-
 ## **[Alastair Humphreys](https://alastairhumphreys.com)**  
 1. **As I Walked Out One Midsummer Morning** – Laurie Lee (*Travel Memoir, Autobiography*)  
 2. **For Whom the Bell Tolls** – Ernest Hemingway (*Historical Fiction, War*)  
