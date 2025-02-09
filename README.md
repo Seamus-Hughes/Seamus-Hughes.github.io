@@ -3,7 +3,7 @@ Blog
 
 ## Recent Posts
 
-- Test
+-  [Following Reading Recommendations 2025]({% post_url 2025-02-09-following-reading-recommendations-2025 %})
 
 - [Lifestream February 2025]({% post_url 2025-02-01-lifestream-words-2025-february %})
 
