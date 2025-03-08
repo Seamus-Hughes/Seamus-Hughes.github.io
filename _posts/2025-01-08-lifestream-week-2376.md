@@ -1,7 +1,6 @@
-[2025-01-08-lifestream-week-2380.md]
 ---
 layout: post
-title: "Lifestream Week 2380"
+title: "Lifestream Week 2376"
 date: 2025-01-08
 author: Seamus Hughes
 tags:
@@ -53,6 +52,3 @@ tags:
 > Like everyone else, I'm getting tired and fed up of the snow and ice.[^7]
 
 [^7]: It snowed on Saturday night. Not as deep as expected but deep enough. Child 2 enjoyed the sledging with her sleepover friends. Then it didn't thaw. The temperature is not due to rise above freezing till the end of the week. The snow quickly compacted and became sheets of ice, visible and invisible. Every time you stepped out, that effort and time was required to get from A to B. Cycling was out of the question. A large chunk of my precious time in the morning is spent de-icing the car for my better half.
-
-
-
