@@ -17,6 +17,8 @@ Blog
 
 - [Lifestream January 2025]({% post_url 2025-01-08-lifestream-words-2025-January %})
 
+- [Lifestream Week 2376]({% post_url 2025-01-08-lifestream-week-2376 %})
+
 - [Three Shires Head]({% post_url 2024-12-30-three-shires-head %})
 
 - [At The Foot of Many A Hill]({% post_url 2024-12-28-at-the-foot-of-many-a-hill %})
