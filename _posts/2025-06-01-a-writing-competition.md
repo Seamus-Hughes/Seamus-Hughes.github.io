@@ -15,6 +15,6 @@ When the newsletter pointed me in the direction of their [Channel 4 Writing for 
 
 If only I could think up an idea of a story that would fit.
 
-Before I left the house that morning, I'd had the germ of an idea. At lunchtime, I'd devised a working title, and a week later (which I have to say I'm quite proud of), as I've let it fester in my head, it's still got legs and is bursting to get out.
+Before I left the house that morning, I'd had the germ of an idea. At lunchtime, I'd devised a working title, which I have to say I'm quite proud of. A week later, as I've let it fester in my head, it's still got legs and is bursting to get out.
 
 I did my 25 minutes of writing today, and some.
