@@ -1,7 +1,9 @@
 # Seamus-Hughes.github.io
 Blog
 
-## Recent Posts
+## Recent posts
+
+Posts
 
 - [A Writting Competition]({% post_url 2025-06-01-a-writing-competition %}) 
 
