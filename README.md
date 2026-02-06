@@ -3,7 +3,7 @@ Blog
 
 ## Recent posts
 
-Posts
+- [Newish Resolutions]({% post_url 2026-02-06-no-001-newish-resolutions %})
 
 - [A Writting Competition]({% post_url 2025-06-01-a-writing-competition %}) 
 
